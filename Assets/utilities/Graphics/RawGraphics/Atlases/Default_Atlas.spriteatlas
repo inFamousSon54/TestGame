@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Default_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 869613d496979fa41bea088cd2dadcea, type: 3}
+    totalSpriteSurfaceArea: 405919
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a04294a1522962b42833966a673bb53d, type: 3}
+  - {fileID: 21300000, guid: 52069b02b7cdeb548b12a4229d7e769b, type: 3}
+  - {fileID: 21300000, guid: d92a2592b7b91b946bc163da7aea09c9, type: 3}
+  - {fileID: 21300000, guid: f45f71a25fc5ad947af4bd3cdbdbb38a, type: 3}
+  - {fileID: 21300000, guid: 4f7646b2dd7bc8d45b9c138c147f3434, type: 3}
+  - {fileID: 21300000, guid: 0018e6c2e3a7618478169da4cab6fdf8, type: 3}
+  - {fileID: 21300000, guid: 063cfb73c840e74419703d859b88a1a1, type: 3}
+  - {fileID: 21300000, guid: 307497b38a117654196d8253453448eb, type: 3}
+  - {fileID: 21300000, guid: 954c8dc3fb1bfe24aa71b5781b7f8977, type: 3}
+  - {fileID: 21300000, guid: 15d894d37b27f7240b9be100fee88169, type: 3}
+  - {fileID: 21300000, guid: 2f59d184faaa4144e9e88b6776c80bbd, type: 3}
+  - {fileID: 21300000, guid: 776461e497ee0634085382fb6b3f55b2, type: 3}
+  - {fileID: 21300000, guid: 6b6cff35eb70d3440aeda6e1549fb43b, type: 3}
+  - {fileID: 21300000, guid: c2063145984c6c141ad437436ba453e0, type: 3}
+  - {fileID: 21300000, guid: c4ab37557e64d3a42849ad53be7f7506, type: 3}
+  - {fileID: 21300000, guid: 0bdf9d0661a1105418702b8a7b3c9ad1, type: 3}
+  - {fileID: 21300000, guid: e5a65ce7bb3c41c41800aaf3fd293fed, type: 3}
+  - {fileID: 21300000, guid: 11d8b4c9219fab1418eb3e4fc32fac8f, type: 3}
+  - {fileID: 21300000, guid: 37f43f3bf2392e54999752fef3263790, type: 3}
+  - {fileID: 21300000, guid: c9ffd67d7fe199e49a6b8e67a8a60796, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Sound Music On
+  - lightning
+  - $
+  - Setting
+  - TwitterLogo_white
+  - Sound Music Off
+  - best score
+  - LeaderBoards
+  - reload-icon-16897
+  - CollectorIcon
+  - music on
+  - Square_30
+  - ADS_Empty
+  - Haptic
+  - ADS
+  - Empty_Toggle
+  - collector
+  - facebook_like_button
+  - Instagram
+  - rate
+  m_Tag: Default_Atlas
+  m_IsVariant: 0

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CarRush_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 60f5f8acb51ec3a40a4e4f7f06741e23, type: 3}
+    totalSpriteSurfaceArea: 462367
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: da233a00a152f624a8018835c3cb1530, type: 3}
+  - {fileID: 21300000, guid: 123ccb60342f6374697b8d9d1a15e457, type: 3}
+  - {fileID: 21300000, guid: 052cfba0817494946a983cbaad30d2f9, type: 3}
+  - {fileID: 21300000, guid: 29b5d7d049881c14bbef6c51f54fd796, type: 3}
+  - {fileID: 21300000, guid: 63415872e7b53a04db472fb8ddeabd57, type: 3}
+  - {fileID: 21300000, guid: c34d9ed2a40d2ea40961df29a550d8e6, type: 3}
+  - {fileID: 21300000, guid: 541f05e4c1af5ba4e89472b93f3251ae, type: 3}
+  - {fileID: 21300000, guid: 5f9632d68b08ad84196a7099005c0f3d, type: 3}
+  - {fileID: 21300000, guid: 89d67f47e38c5db4d87ebf05e043c6de, type: 3}
+  - {fileID: 21300000, guid: 36ac408872bafff4db9a82a9e4878fe3, type: 3}
+  - {fileID: 21300000, guid: 0fe81bbbec978a348a6a6c4ad2adf347, type: 3}
+  - {fileID: 21300000, guid: 27c349ad1338c4941b5b9b9919741289, type: 3}
+  - {fileID: 21300000, guid: e3d3ed2e342c5444689a26f439152c23, type: 3}
+  - {fileID: 21300000, guid: b9a2215e0232c064186242b11d1b83a6, type: 3}
+  - {fileID: 21300000, guid: a6fe9e7e2f4b15b4aa5cec07fd1b897e, type: 3}
+  - {fileID: 21300000, guid: 4ce557df8923c2a49849f5fac74c9d92, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - video button
+  - Gift
+  - Tap_Ring
+  - Heart
+  - Circluar_Ring
+  - Close
+  - HOME ICON
+  - coin
+  - Panel_Round_192px
+  - moon
+  - Play
+  - sun
+  - Tick
+  - coin shop icon
+  - OFFLINE ICON
+  - Tick_no_Border
+  m_Tag: CarRush_Atlas
+  m_IsVariant: 0
